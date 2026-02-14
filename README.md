@@ -37,7 +37,7 @@ This project implements a multilingual sentiment analysis system that achieves *
 
 ## 📁 Repository Contents
 
-- **[📄 Full Project Report](COMP_6781_Project_Report_40294241_Sehaj_40289625_Gurleen.pdf)** - Detailed methodology, experiments, and results
+- **[📄 Full Project Report](https://github.com/sehaj-deep/Multilingual_Intimacy_Analysis/blob/main/Project_Report.pdf)** - Detailed methodology, experiments, and results
 - **[📊 Research Poster](link-to-poster-if-available.pdf)** *(if you have it)*
 - **Code:** Available upon request
 
