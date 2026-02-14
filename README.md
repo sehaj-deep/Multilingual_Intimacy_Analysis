@@ -38,7 +38,7 @@ This project implements a multilingual sentiment analysis system that achieves *
 ## 📁 Repository Contents
 
 - **[📄 Full Project Report](https://github.com/sehaj-deep/Multilingual_Intimacy_Analysis/blob/main/Project_Report.pdf)** - Detailed methodology, experiments, and results
-- **[📊 Research Poster](link-to-poster-if-available.pdf)** *(if you have it)*
+- **[📊 Research Poster](https://github.com/sehaj-deep/Multilingual_Intimacy_Analysis/blob/main/Poster.png)** - Crux of work which was presented to around 50 people to showcase my work
 - **Code:** Available upon request
 
 ## 📈 Model Architecture
